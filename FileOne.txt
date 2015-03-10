@@ -6,10 +6,10 @@ for v1.0
 second line for v1.0
 =======================
 
-Line 1 Added for version 1
-Line 1 Added for version 1
-Line 1 Added for version 1
-Line 1 Added for version 1
-Line 1 Added for version 1
+Line 2 Added for version 1
+Line 3 Added for version 1
+Line 4 Added for version 1
+Line 5 Added for version 1
+Line 6 Added for version 1
 
 ==========================
