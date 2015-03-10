@@ -4,3 +4,12 @@ Third line - modified again and again
 Fourthline
 for v1.0
 second line for v1.0
+=======================
+
+Line 1 Added for version 1
+Line 1 Added for version 1
+Line 1 Added for version 1
+Line 1 Added for version 1
+Line 1 Added for version 1
+
+==========================
